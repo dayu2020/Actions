@@ -1,4 +1,5 @@
 ## 使用GitHub Actions每日自动更新[fancyss](https://github.com/hq450/fancyss)规则  
+初学小白，完全照搬qxzg，感谢！
 [![Update Fancyss Rules](https://github.com/qxzg/Actions/actions/workflows/fancyss-rules.yml/badge.svg)](https://github.com/qxzg/Actions/actions/workflows/fancyss-rules.yml)   
 
 ---   
